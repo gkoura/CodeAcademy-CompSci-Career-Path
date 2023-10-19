@@ -1,0 +1,7 @@
+print(" GGG\t   GGG ")
+print("G   G\t G   G")
+print("G\t G")
+print("GGGGG\t GGGGG")
+print("G   G\t G   G")
+print("G   G\t G   G")
+print(" GGG\t   GGG ")
